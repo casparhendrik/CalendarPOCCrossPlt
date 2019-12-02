@@ -1,5 +1,7 @@
 {
   "name": "CalendarPOCAndroid",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
